@@ -1,14 +1,1 @@
-<!DOCTYPE html>
-    <head>
-        <title>StarWars_Sandeepan</title>
-    </head>
-    <body>
-        <h1>Hello World Galaxy!</h1>
-        <p>This is the Millenium Falcon.</p>
-        <img src="https://images.alphacoders.com/267/267861.jpg" alt="Millenium Falcon" width="400">
-        <p>This is Luke Skywalker.</p>
-        <img src="pfpluke.jpg" alt="Luke Skywalker" width="300">
-        <p>This is Star Wars link: </p>
-        <a href="https://www.starwars.com/" target="blank">Star Wars Official Website</a>
-    </body>
-</html>
+STAR WARS
